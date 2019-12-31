@@ -1,4 +1,4 @@
-"# K-Mean" 
+# K-Mean
 เป็นโปรแกรมบน WindowForm ที่เขียนด้วย ภาษา C# เพื่อใช้ในการลองเขียน Algorithm ของ Machine learning ที่เรียกว่า K-Mean Algorithm
 
 ![alt text](https://github.com/CakeNuthep/K-Mean/blob/master/K-Mean/test/image/application.PNG)
